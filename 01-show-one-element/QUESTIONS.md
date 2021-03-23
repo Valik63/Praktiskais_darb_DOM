@@ -16,8 +16,12 @@ no, since when the page is refreshed, the actions are refreshed and they return 
 
 Your reply here...
 
+Kods nestrada, jo tas rindiņa atbilde par JavaScript mājaslapu ielade
+
 ---
 
 > Describe the the `addEventListener` method. (Remember that there is a specific, technical, methodical way to describe methods. Your reply should match that format.)
 
 Your reply here...
+
+Metode addEventListener () elementam pievieno notikumu apdarinātāju, nepārrakstot esošos notikumu apstrādātājus. Vienam elementam varat pievienot daudz pasākumu apstrādātāju. Diviem viena klikšķa notikumiem vienam elementam varat pievienot daudz viena veida notikumu apstrādātāju.
